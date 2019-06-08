@@ -1,0 +1,17 @@
+/* Sitio Web Jas Comunicaciones - https://jaszcomunicaciones.com */
+
+/* TEAM */
+Desarrollador: Walter Jairzinho Sosa.
+Site: info@poporodesign.co, enlace a formulario de contacto, ...
+Twitter: @walterjsosa.
+Location: Ciudad, Comunidad, País.
+
+/* THANKS */
+Name: www.poporodesign.co
+
+
+/* SITE */
+Last update: 2019/04/01
+Standards: HTML5, CSS3, ...
+Components: Modernizr, jQuery, etc.
+Software: Software usado para el desarrollo del site.
